@@ -23,5 +23,7 @@ public class ArmstrongNumberCheck {
         }
         
         scanner.close();
+          System.out.println(number + " is an Armstrong number.");
+        }
     }
 }
